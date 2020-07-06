@@ -7,8 +7,8 @@ function getRandomQuip() {
         "Full-time gamer boy who is looking for a gamer girl",
         "Full-time streamer that never streams",
         "Full-time iToddler",
-        "Full-time Professional regret master",
-        "Full-time fake plant watering service"
+        "Full-time fake plant watering service",
+        "I will mail you swedish candy",
     ]
     var quip_random = quips[Math.floor(Math.random() * quips.length)];
     document.getElementById("random").innerHTML = quip_random;
