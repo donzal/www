@@ -1,0 +1,29 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+
+h1 {
+  padding: 0px;
+  margin: 0px;
+
+  margin-bottom: 1rem;
+}
+
+p {
+  padding: 0px;
+  margin: 0px;
+
+  font-size: 24px;
+  margin-bottom: 1rem;
+}
