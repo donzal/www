@@ -1,7 +1,7 @@
 .centered {
     font-size: 76px;
     position: absolute;
-    left: 50%;
+    left: 65%;
     top: 50%;
     transform: translate(-50%,-50%);
     font-family: 'Fira Code', 'Roboto', monospace;
@@ -34,7 +34,7 @@ a {
 }
  
 .Portfolio-base {
-    font-size: 30px;
+    font-size: 25px;
     position: absolute;
     left: 50%;
     top: 30%;
@@ -59,7 +59,14 @@ a {
 .svg-white {
     filter: invert(100%);
 }
-    
+  
+.Pfp {
+    position:absolute;
+    left: 25%;
+    top:30%;
+    border: 2px solid #0aa2ff;
+    display:flex;
+}
 
 
 
