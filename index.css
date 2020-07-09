@@ -1,7 +1,13 @@
+
+@font-face {font font-family: ;}
+
+
+
+
 .centered {
     font-size: 76px;
     position: absolute;
-    left: 65%;
+    left: 60%;
     top: 50%;
     transform: translate(-50%,-50%);
     font-family: 'Fira Code', 'Roboto', monospace;
@@ -17,6 +23,23 @@ a {
     font-size: 25%;
     color: #FFFFFF
 }
+.Home{
+    font-size: 76px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Fira Code', 'Roboto', monospace;
+    color: #FFFFFF;
+    font-weight: 400;
+    line-height: 50%;
+}
+.Home span {
+    will-change: filter;
+}
+
+
+
 
 .Portfolio {
     font-size: 64px;
