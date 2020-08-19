@@ -75,17 +75,16 @@ a {
 }
 
 
-}
-.fourofour{
-    font-size: 76px;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%,-50%);
-    font-family: 'Fira Code', 'Roboto', monospace;
-    color: #FFFFFF;
-    font-weight: 400;
-    line-height: 50%;
+.four{
+  font-size: 76px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  font-family: 'Fira Code', 'Roboto', monospace;
+  color: #FFFFFF;
+  font-weight: 400;
+  line-height: 50%;
 }
 
 
