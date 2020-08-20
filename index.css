@@ -1,5 +1,5 @@
 .centered {
-    font-size: 76px;
+    font-size: 7rem;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -18,7 +18,7 @@ a {
     color: #FFFFFF
 }
 .Home{
-    font-size: 76px;
+    font-size: 7rem;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -32,51 +32,9 @@ a {
     will-change: filter;
 }
 
-.Portfolio {
-    font-size: 64px;
-    position: absolute;
-    left: 50%;
-    top: 15%;
-    transform: translate(-50%,-50%);
-    font-family: 'Fira Code', 'Roboto', monospace;
-    color: #FFFFFF;
-    font-weight: 400;
-    line-height: 50%;
-}
-.Portfolio span {
-    will-change:filter;
-}
-
-.Portfolio-base {
-    font-size: 25px;
-    position: absolute;
-    left: 50%;
-    top: 30%;
-    transform: translate(-50%,-50%);
-    font-family: 'Fira Code', 'Roboto', monospace;
-    color: #FFFFFF;
-    font-weight: 400;
-    line-height: 50%;
-}
-.Portfolio-items {
-    font-size: 27px;
-    position: absolute;
-    left: 36.5%;
-    top: 35%;
-    transform: translate(-50%,-50%);
-    font-family: 'Fira Code', 'Roboto', monospace;
-    color: #FFFFFF;
-    font-weight: 400;
-    line-height: 50%;
-}
-
-.svg-white {
-    filter: invert(100%);
-}
-
 
 .four{
-  font-size: 76px;
+  font-size: 3rem;
   position: absolute;
   left: 50%;
   top: 50%;
