@@ -1,0 +1,52 @@
+.centered {
+    font-size: 7rem;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Fira Code', 'Roboto', monospace;
+    color: #FFFFFF;
+    font-weight: 400;
+    line-height: 50%;
+}
+
+.centered span {
+    will-change: filter;
+}
+a {
+    font-size: 25%;
+    color: #FFFFFF
+}
+.Home{
+    font-size: 7rem;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Fira Code', 'Roboto', monospace;
+    color: #FFFFFF;
+    font-weight: 400;
+    line-height: 50%;
+}
+.Home span {
+    will-change: filter;
+}
+
+
+.four{
+  font-size: 3rem;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  font-family: 'Fira Code', 'Roboto', monospace;
+  color: #FFFFFF;
+  font-weight: 400;
+  line-height: 50%;
+}
+
+
+
+body {
+    background-color: #121212;
+}
