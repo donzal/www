@@ -4,7 +4,7 @@
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Mono', monospace;
     color: #FFFFFF;
     font-weight: 400;
     line-height: 50%;
@@ -18,20 +18,7 @@ a {
     font-size: 25%;
     color: #FFFFFF
 }
-.Home{
-    font-size: 7rem;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%,-50%);
-    font-family: 'Fira Code', 'Roboto', monospace;
-    color: #FFFFFF;
-    font-weight: 400;
-    line-height: 50%;
-}
-.Home span {
-    will-change: filter;
-}
+
 
 
 .four{
@@ -40,7 +27,7 @@ a {
   left: 50%;
   top: 50%;
   transform: translate(-50%,-50%);
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   color: #FFFFFF;
   font-weight: 400;
   line-height: 50%;
