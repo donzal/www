@@ -4,7 +4,7 @@
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Source Sans Pro', sans-serif;
     color: #FFFFFF;
     font-weight: 400;
     line-height: 50%;
@@ -27,7 +27,7 @@ a {
   left: 50%;
   top: 50%;
   transform: translate(-50%,-50%);
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Source Sans Pro', sans-serif;
   color: #FFFFFF;
   font-weight: 400;
   line-height: 50%;
