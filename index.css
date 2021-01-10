@@ -1,40 +1,43 @@
+body {
+    background-color: #121212;
+}
 .centered {
-    font-size: 7rem;
-    position: absolute;
+    font-size: 5rem;
+    position:absolute;
     left: 50%;
-    top: 50%;
+    top: 45%;
     transform: translate(-50%,-50%);
-    font-family: 'Source Sans Pro', sans-serif;
     color: #FFFFFF;
+    font-family: 'Source Code Pro', monospace;
     font-weight: 400;
     line-height: 50%;
 }
 
-.centered span {
-    will-change: filter;
-    
+    .mailto {
+    font-size: 4rem;
+    position:absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    color: #FFFFFF;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 400;
+    line-height: 50%;
 }
 a {
-    font-size: 25%;
-    color: #FFFFFF
+    color:#FFFFFF;
+    text-decoration: none;
+}
+.blink {
+    animation: blink 1s infinite;
 }
 
-
-
-.four{
-  font-size: 3rem;
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%,-50%);
-  font-family: 'Source Sans Pro', sans-serif;
-  color: #FFFFFF;
-  font-weight: 400;
-  line-height: 50%;
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
 }
 
-
-
-body {
-    background-color: #121212;
-}
