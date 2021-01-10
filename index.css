@@ -2,19 +2,19 @@ body {
     background-color: #121212;
 }
 .centered {
-    font-size: 5rem;
+    font-size: 250%;
     position:absolute;
     left: 50%;
-    top: 45%;
+    top: 40%;
     transform: translate(-50%,-50%);
     color: #FFFFFF;
     font-family: 'Source Code Pro', monospace;
-    font-weight: 400;
-    line-height: 50%;
+    font-weight: 300;
+    line-height: 75%;
 }
 
     .mailto {
-    font-size: 4rem;
+    font-size: 200%;
     position:absolute;
     left: 50%;
     top: 50%;
