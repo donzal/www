@@ -1,4 +1,4 @@
-# www v2
+# www 
 website made with love, and lots of anger
 
 

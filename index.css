@@ -1,11 +1,11 @@
 body {
-    background-color: #121212;
+    background-color: #8c8071;
 }
 .centered {
-    font-size: 240%;
+    font-size: 400%;
     position:absolute;
-    left: 50%;
-    top: 40%;
+    left:22%;
+    top: 7%;
     transform: translate(-50%,-50%);
     color: #FFFFFF;
     font-family: 'Source Code Pro', monospace;
@@ -13,17 +13,51 @@ body {
     line-height: 75%;
 }
 
-    .mailto {
+.mailto {
     font-size: 200%;
     position:absolute;
-    left: 50%;
-    top: 50%;
+    left: 27%;
+    top: 14%;
     transform: translate(-50%,-50%);
     color: #FFFFFF;
     font-family: 'Source Code Pro', monospace;
     font-weight: 400;
     line-height: 50%;
 }
+.twitter {
+    font-size: 195%;
+    position:absolute;
+    left: 25.25%;
+    top: 20%;
+    transform: translate(-50%,-50%);
+    color: #FFFFFF;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 400;
+    line-height: 50%;
+}
+.github {
+    font-size: 185%;
+    position:absolute;
+    left: 23.2%;
+    top: 25%;
+    transform: translate(-50%,-50%);
+    color: #FFFFFF;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 400;
+    line-height: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 a {
     color:#FFFFFF;
     text-decoration: none;
