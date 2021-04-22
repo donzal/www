@@ -3,9 +3,10 @@ body {
 }
 .centered {
     font-size: 400%;
-    position:absolute;
-    left:22%;
-    top: 7%;
+    position: fixed;
+    text-align:left;
+    left:20%;
+    top:10%;
     transform: translate(-50%,-50%);
     color: #FFFFFF;
     font-family: 'Source Code Pro', monospace;
@@ -13,39 +14,18 @@ body {
     line-height: 75%;
 }
 
-.mailto {
+.links {
     font-size: 200%;
-    position:absolute;
+    position:fixed;
     left: 27%;
-    top: 14%;
-    transform: translate(-50%,-50%);
-    color: #FFFFFF;
-    font-family: 'Source Code Pro', monospace;
-    font-weight: 400;
-    line-height: 50%;
-}
-.twitter {
-    font-size: 195%;
-    position:absolute;
-    left: 25.25%;
     top: 20%;
     transform: translate(-50%,-50%);
     color: #FFFFFF;
     font-family: 'Source Code Pro', monospace;
     font-weight: 400;
-    line-height: 50%;
+    line-height: 105%;
 }
-.github {
-    font-size: 185%;
-    position:absolute;
-    left: 23.2%;
-    top: 25%;
-    transform: translate(-50%,-50%);
-    color: #FFFFFF;
-    font-family: 'Source Code Pro', monospace;
-    font-weight: 400;
-    line-height: 50%;
-}
+
 
 
 
