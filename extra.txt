@@ -1,0 +1,31 @@
+#8c8071 tan
+#C0A392 two
+chocolate #403630
+chocolate 2 #383838
+grey #303A40
+https://coolors.co/403630
+
+New colors
+White #e8e8e7
+Dark Gray #222220
+Medium Gray #767672
+Light Gray #C8C8C6
+Blue #D9E1E2
+Green #AEBAB1 
+https://coolors.co/palette/444444-a3a3a3-c2c2c2-d7d7d5-e8e8e7
+
+
+
+
+
+
+
+
+
+
+<-- Side navigation-->
+<div class="sidenav">
+ <a href="index.html">Home</a>
+ <a href="socialmedia.html">contact</a>
+ <a href="projects.html">Projects</a>
+</div>

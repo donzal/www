@@ -1,5 +1,5 @@
 body {
-    background-color:#8c8071;
+    background-color:#222220;
 }
 
 
@@ -9,7 +9,7 @@ body {
     text-decoration: none;
     padding-top:25px;
     font-size: 45px;
-    color: #403630;
+    color: #e8e8e7;
     display: block; 
     position:fixed; 
     line-height:0px;
@@ -20,7 +20,7 @@ body {
     padding-left:150px;
     text-decoration: none;
     font-size: 45px;
-    color: #403630;
+    color: #e8e8e7;
     display: block; 
     position:fixed; 
     line-height:3px;
@@ -34,7 +34,7 @@ body {
     padding-left:150px;
     text-decoration: none;
     font-size: 45px;
-    color: #403630;
+    color: #e8e8e7;
     display: block; 
     position:fixed; 
     line-height:3px;
@@ -44,12 +44,12 @@ body {
 }
 
 a:link, a:visited, a:active {
-    color:#403630;   
+    color:#e8e8e7;   
     text-decoration: none;
 }
 
 a:hover {
-    color: #303A40;
+    color: #C8C8C6;
 
     
 }
